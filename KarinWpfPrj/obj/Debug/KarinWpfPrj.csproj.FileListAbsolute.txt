@@ -1,0 +1,17 @@
+D:\KARIN 13960603\KarinWpfPrj\bin\Debug\KarinWpfPrj.exe.config
+D:\KARIN 13960603\KarinWpfPrj\bin\Debug\KarinWpfPrj.exe
+D:\KARIN 13960603\KarinWpfPrj\bin\Debug\KarinWpfPrj.pdb
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\KarinWpfPrj.csprojResolveAssemblyReference.cache
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\MainWindow.g.cs
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\App.g.cs
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\KarinWpfPrj_MarkupCompile.cache
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\KarinWpfPrj_MarkupCompile.lref
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\MainWindow.baml
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\KarinWpfPrj.g.resources
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\KarinWpfPrj.Properties.Resources.resources
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\KarinWpfPrj.csproj.GenerateResource.Cache
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\KarinWpfPrj.exe
+D:\KARIN 13960603\KarinWpfPrj\obj\Debug\KarinWpfPrj.pdb
+C:\Users\a_fathianpour\Source\Repos\KarinRepo\KarinWpfPrj\bin\Debug\KarinWpfPrj.exe.config
+C:\Users\a_fathianpour\Source\Repos\KarinRepo\KarinWpfPrj\obj\Debug\KarinWpfPrj.exe
+C:\Users\a_fathianpour\Source\Repos\KarinRepo\KarinWpfPrj\obj\Debug\KarinWpfPrj.pdb
